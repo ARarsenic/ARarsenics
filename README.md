@@ -1,8 +1,6 @@
 - 👋 Hi, I’m a person who don't know what's going on
-- 👀 I’m interested in Physics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on application of PDE in physical simulation
-- 📫 How to reach me ...   ):
+- 👀 I’m interested in Crypto and Something amazing.
+- 🌱 yehuang.eth is my Ethereum Domain.
 
 <!---
 ARarsenics/ARarsenics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
